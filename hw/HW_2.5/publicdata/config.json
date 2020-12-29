@@ -1,0 +1,4 @@
+{
+  "facebook": {"login": "alice", "password": "mysecret"},
+  "twitter": {"login": "alice2", "password": "secret2"}
+}

@@ -1,0 +1,9 @@
+{
+  "github": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "https://caileighmarshall.github.io/cs181project/",
+    "state": "38BQS4JZ",
+    "scope": "user repo read:org"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "spotify": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "https://caileighmarshall.github.io/cs181project/",
+    "state": "",
+    "scope": "user-read-private user-read-email playlist-modify-public playlist-modify-private",
+    "code": ""
+  },
+    
+  "github": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "https://caileighmarshall.github.io/cs181project/",
+    "state": "",
+    "scope": "user repo read:org",
+    "code": ""
+  }
+}

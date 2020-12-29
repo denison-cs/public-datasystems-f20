@@ -1,0 +1,17 @@
+Hello folks-
+
+  Let me introduce myself: I am Dr. B (Dr. Bressoud), and I am the professor for CS181/DA210, Data Systems, this fall.  I want to welcome you all and to let you know that I look forward to meeting and working with you this semester, be it on-campus or remote.
+
+  I have started to hear from some of you and I know that many of you have questions about how, in your particular classes, things are going to work this semester.  In the interest of efficiently communicating to *all* of you, I have been working on the syllabus for the class, and have incorporated many/most answers to the questions I think you might have into that document.  ... there is even a section near the top called "COVID-19 Summary" with a set of bullets to try and cover all the main points, though I encourage you to read the rest of the syllabus too, as that will put many things in context.
+
+  Please read through the attached syllabus.  Some of you may have additional or follow-up questions as well.  The *Notebowl* course entry will go live at 1am US ET tomorrow, and I would ask that you post additional questions there under the discussion board.  That way, all the students will benefit from the exchange.  I am a strong believer in being as open and transparent about what is happening with all of the students in the class.
+
+  In about a week, I am going to send out an additional email that is more about class content.  Your intro CS class (111/112/109) is a prerequisite for 181/210 for good reason ... we expect you to have gained skills in Python and will build upon those in what we do in this class.  My subsequent email will summarize the Python skills we expect of you coming in, and may include some example problems that we would expect to come fairly easily to you.  That way, students can assess what they remember and even look back at the Havill textbook to review if needed.
+
+  If a student wants a virtual face-to-face meeting with me to talk through some concerns or issues that are specific to their situation, let me know and we will work to schedule something over Zoom.
+
+  Enjoy the next two weeks, and we will get together August 17th!
+
+Best,
+
+Dr. B

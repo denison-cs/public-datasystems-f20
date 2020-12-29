@@ -1,0 +1,221 @@
+code,country,pop,gdp,life,cell
+ABW,Aruba,0.1,,75.87,
+AFG,Afghanistan,34.66,19.47,63.67,21.6
+AGO,Angola,28.81,95.34,61.55,13.0
+ALB,Albania,2.88,11.86,78.34,3.37
+AND,Andorra,0.08,2.86,,0.07
+ARE,United Arab Emirates,9.27,348.74,77.26,19.91
+ARG,Argentina,43.85,545.48,76.58,63.72
+ARM,Armenia,2.92,10.57,74.62,3.43
+ASM,American Samoa,0.06,0.66,,
+ATG,Antigua and Barbuda,0.1,1.46,76.36,0.18
+AUS,Australia,24.21,1204.62,82.5,26.55
+AUT,Austria,8.73,390.8,80.89,14.27
+AZE,Azerbaijan,9.76,37.85,72.03,10.19
+BDI,Burundi,10.52,3.01,57.48,5.36
+BEL,Belgium,11.34,467.96,80.99,12.55
+BEN,Benin,10.87,8.58,60.91,8.89
+BFA,Burkina Faso,18.65,11.69,60.36,15.4
+BGD,Bangladesh,162.95,221.42,72.49,135.98
+BGR,Bulgaria,7.13,53.24,74.61,8.97
+BHR,Bahrain,1.43,32.18,76.9,2.99
+BHS,"Bahamas, The",0.39,11.26,75.68,0.36
+BIH,Bosnia and Herzegovina,3.52,16.91,76.91,3.4
+BLR,Belarus,9.5,47.41,73.83,11.44
+BLZ,Belize,0.37,1.74,70.38,0.23
+BMU,Bermuda,0.07,,81.23,
+BOL,Bolivia,10.89,33.81,69.12,10.11
+BRA,Brazil,207.65,1796.19,75.51,244.07
+BRB,Barbados,0.28,4.53,75.91,0.33
+BRN,Brunei Darussalam,0.42,11.4,77.2,0.52
+BTN,Bhutan,0.8,2.21,70.2,0.7
+BWA,Botswana,2.25,15.58,66.8,3.29
+CAF,Central African Republic,4.59,1.76,52.17,1.25
+CAN,Canada,36.26,1535.77,82.3,30.75
+CHE,Switzerland,8.37,668.85,82.9,11.24
+CHI,Channel Islands,0.16,,81.11,
+CHL,Chile,17.91,247.03,79.52,23.3
+CHN,China,1378.66,11199.15,76.25,1364.93
+CIV,Cote d'Ivoire,23.7,36.37,53.58,27.45
+CMR,Cameroon,23.44,32.22,58.07,18.72
+COD,"Congo, Dem. Rep.",78.74,35.38,59.62,28.89
+COG,"Congo, Rep.",5.13,7.83,64.62,5.42
+COL,Colombia,48.65,282.46,74.38,58.68
+COM,Comoros,0.8,0.62,63.7,0.45
+CPV,Cabo Verde,0.54,1.62,72.8,0.6
+CRI,Costa Rica,4.86,57.44,79.83,8.33
+CUB,Cuba,11.48,,79.74,3.99
+CUW,Curacao,0.16,,77.87,0.19
+CYM,Cayman Islands,0.06,,,0.1
+CYP,Cyprus,1.17,20.05,80.51,1.13
+CZE,Czech Republic,10.57,195.31,78.33,12.49
+DEU,Germany,82.49,3477.8,80.64,103.47
+DJI,Djibouti,0.94,,62.46,0.35
+DMA,Dominica,0.07,0.58,,0.08
+DNK,Denmark,5.73,306.9,80.7,6.99
+DOM,Dominican Republic,10.65,71.58,73.86,8.71
+DZA,Algeria,40.61,159.05,76.08,47.04
+ECU,Ecuador,16.39,98.61,76.33,13.88
+EGY,"Egypt, Arab Rep.",95.69,332.79,71.48,97.79
+ERI,Eritrea,,,65.09,0.51
+ESP,Spain,46.48,1237.26,82.83,51.52
+EST,Estonia,1.32,23.34,77.74,1.9
+ETH,Ethiopia,102.4,72.37,65.47,51.22
+FIN,Finland,5.5,238.68,81.78,7.37
+FJI,Fiji,0.9,4.7,70.27,1.04
+FRA,France,66.89,2465.45,82.27,67.57
+FRO,Faroe Islands,0.05,,82.24,0.05
+FSM,"Micronesia, Fed. Sts.",0.1,0.33,69.19,0.02
+GAB,Gabon,1.98,14.21,66.1,2.96
+GBR,United Kingdom,65.6,2650.85,80.96,78.93
+GEO,Georgia,3.72,14.38,73.26,5.53
+GHA,Ghana,28.21,42.69,62.74,38.31
+GIB,Gibraltar,0.03,,,0.04
+GIN,Guinea,12.4,8.2,60.02,10.8
+GMB,"Gambia, The",2.04,0.96,61.19,2.84
+GNB,Guinea-Bissau,1.82,1.16,57.4,1.29
+GNQ,Equatorial Guinea,1.22,10.68,57.68,0.58
+GRC,Greece,10.77,192.69,81.04,12.54
+GRD,Grenada,0.11,1.06,73.66,0.12
+GRL,Greenland,0.06,,,
+GTM,Guatemala,16.58,68.76,73.41,18.26
+GUM,Guam,0.16,5.79,79.58,
+GUY,Guyana,0.77,3.5,66.65,0.58
+HKG,"Hong Kong SAR, China",7.34,320.91,84.23,17.58
+HND,Honduras,9.11,21.52,73.58,7.83
+HRV,Croatia,4.17,50.71,78.02,4.41
+HTI,Haiti,10.85,8.02,63.33,6.5
+HUN,Hungary,9.81,125.82,75.57,11.78
+IDN,Indonesia,261.12,932.26,69.19,385.57
+IMN,Isle of Man,0.08,,,
+IND,India,1324.17,2263.79,68.56,1127.81
+IRL,Ireland,4.75,304.82,81.61,4.88
+IRN,"Iran, Islamic Rep.",80.28,418.98,75.95,80.52
+IRQ,Iraq,37.2,171.49,69.86,30.2
+ISL,Iceland,0.34,20.3,82.47,0.4
+ISR,Israel,8.55,317.74,82.41,10.57
+ITA,Italy,60.63,1859.38,82.54,90.93
+JAM,Jamaica,2.88,14.06,75.97,3.27
+JOR,Jordan,9.46,38.65,74.33,9.82
+JPN,Japan,126.99,4949.27,83.98,166.85
+KAZ,Kazakhstan,17.79,137.28,72.3,25.53
+KEN,Kenya,48.46,70.53,67.03,38.98
+KGZ,Kyrgyz Republic,6.08,6.55,70.95,7.61
+KHM,Cambodia,15.76,20.02,68.98,19.92
+KIR,Kiribati,0.11,0.18,66.32,0.05
+KNA,St. Kitts and Nevis,0.05,0.91,,0.08
+KOR,"Korea, Rep.",51.25,1411.25,82.02,61.3
+KWT,Kuwait,4.05,110.88,74.69,5.39
+LAO,Lao PDR,6.76,15.81,66.68,3.96
+LBN,Lebanon,6.01,49.6,79.58,4.89
+LBR,Liberia,4.61,2.1,62.5,3.12
+LBY,Libya,6.29,,71.93,7.66
+LCA,St. Lucia,0.18,1.67,75.5,0.18
+LIE,Liechtenstein,0.04,,82.66,0.04
+LKA,Sri Lanka,21.2,81.32,75.28,25.8
+LSO,Lesotho,2.2,2.29,54.17,2.28
+LTU,Lithuania,2.87,42.77,74.32,4.2
+LUX,Luxembourg,0.58,58.63,82.29,0.76
+LVA,Latvia,1.96,27.57,74.53,2.65
+MAC,"Macao SAR, China",0.61,45.31,83.85,1.97
+MAF,St. Martin (French part),0.03,,79.62,
+MAR,Morocco,35.28,103.61,75.82,41.51
+MCO,Monaco,0.04,,,0.03
+MDA,Moldova,3.55,6.75,71.61,3.79
+MDG,Madagascar,24.89,10.0,65.93,8.0
+MDV,Maldives,0.43,4.22,77.34,0.81
+MEX,Mexico,127.54,1046.92,77.12,111.73
+MHL,Marshall Islands,0.05,0.19,,
+MKD,"Macedonia, FYR",2.08,10.9,75.7,2.05
+MLI,Mali,17.99,14.03,57.97,20.22
+MLT,Malta,0.44,11.0,81.8,0.53
+MMR,Myanmar,52.89,63.23,66.61,50.59
+MNE,Montenegro,0.62,4.37,77.12,1.04
+MNG,Mongolia,3.03,11.18,69.29,3.37
+MNP,Northern Mariana Islands,0.06,1.24,,
+MOZ,Mozambique,28.83,11.01,58.31,15.03
+MRT,Mauritania,4.3,4.74,63.24,3.61
+MUS,Mauritius,1.26,12.17,74.39,1.81
+MWI,Malawi,18.09,5.43,63.22,7.18
+MYS,Malaysia,31.19,296.54,75.3,43.91
+NAM,Namibia,2.48,10.95,64.39,2.66
+NCL,New Caledonia,0.28,,76.96,
+NER,Niger,20.67,7.53,60.06,8.72
+NGA,Nigeria,185.99,404.65,53.43,154.34
+NIC,Nicaragua,6.15,13.23,75.4,7.75
+NLD,Netherlands,17.03,777.23,81.51,20.89
+NOR,Norway,5.24,371.08,82.51,5.73
+NPL,Nepal,28.98,21.13,70.25,32.12
+NRU,Nauru,0.01,0.1,,0.01
+NZL,New Zealand,4.69,184.97,81.61,5.8
+OMN,Oman,4.42,66.29,77.03,6.87
+PAK,Pakistan,193.2,278.91,66.48,136.49
+PAN,Panama,4.03,55.19,78.0,5.14
+PER,Peru,31.77,192.21,74.98,36.93
+PHL,Philippines,103.32,304.91,69.09,113.0
+PLW,Palau,0.02,0.31,,
+PNG,Papua New Guinea,8.08,20.21,65.54,3.78
+POL,Poland,37.97,471.36,77.45,53.0
+PRI,Puerto Rico,3.41,105.03,79.79,3.25
+PRK,"Korea, Dem. People’s Rep.",25.37,,71.68,3.61
+PRT,Portugal,10.33,205.18,81.13,11.57
+PRY,Paraguay,6.73,27.42,73.12,7.49
+PSE,West Bank and Gaza,4.55,13.4,73.47,3.71
+PYF,French Polynesia,0.28,,76.81,0.28
+QAT,Qatar,2.57,152.45,78.18,3.65
+ROU,Romania,19.7,187.59,75.01,22.9
+RUS,Russian Federation,144.34,1283.16,71.59,229.13
+RWA,Rwanda,11.92,8.38,67.13,8.92
+SAU,Saudi Arabia,32.28,646.44,74.56,47.93
+SDN,Sudan,39.58,95.58,64.49,27.81
+SEN,Senegal,15.41,14.68,67.15,15.19
+SGP,Singapore,5.61,296.98,82.8,8.46
+SLB,Solomon Islands,0.6,1.2,70.73,0.42
+SLE,Sierra Leone,7.4,3.74,51.84,6.28
+SLV,El Salvador,6.34,26.8,73.51,9.64
+SMR,San Marino,0.03,1.59,,0.04
+SOM,Somalia,14.32,6.22,56.29,6.65
+SRB,Serbia,7.06,38.3,75.24,9.09
+SSD,South Sudan,12.23,,56.81,2.7
+STP,Sao Tome and Principe,0.2,0.34,66.62,0.18
+SUR,Suriname,0.56,3.28,71.4,0.81
+SVK,Slovak Republic,5.43,89.77,76.56,6.99
+SVN,Slovenia,2.07,44.71,80.78,2.39
+SWE,Sweden,9.92,514.46,82.2,12.54
+SWZ,Swaziland,1.34,3.72,57.75,1.0
+SXM,Sint Maarten (Dutch part),0.04,,,
+SYC,Seychelles,0.09,1.43,74.31,0.15
+SYR,Syrian Arab Republic,18.43,,70.31,13.35
+TCA,Turks and Caicos Islands,0.03,,,
+TCD,Chad,14.45,9.6,52.9,6.23
+TGO,Togo,7.61,4.4,60.23,5.51
+THA,Thailand,68.86,407.03,75.3,119.67
+TJK,Tajikistan,8.73,6.95,71.05,9.4
+TKM,Turkmenistan,5.66,36.18,67.83,8.57
+TLS,Timor-Leste,1.27,1.78,68.88,1.49
+TMN,Middle East & North Africa (IDA & IBRD countries),369.17,1440.24,72.99,363.85
+TON,Tonga,0.11,0.4,73.03,0.08
+TSA,South Asia (IDA & IBRD),1766.39,2892.48,68.71,1481.31
+TTO,Trinidad and Tobago,1.36,21.89,70.67,2.17
+TUN,Tunisia,11.4,42.06,75.73,14.28
+TUR,Turkey,79.51,863.71,75.76,75.06
+TUV,Tuvalu,0.01,0.03,,0.01
+TZA,Tanzania,55.57,47.34,65.68,40.04
+UGA,Uganda,41.49,24.08,59.89,22.84
+UKR,Ukraine,45.0,93.27,71.48,56.72
+URY,Uruguay,3.44,52.42,77.49,5.12
+USA,United States,323.13,18624.47,78.69,395.88
+UZB,Uzbekistan,31.85,67.22,71.31,23.27
+VCT,St. Vincent and the Grenadines,0.11,0.77,73.18,0.11
+VEN,"Venezuela, RB",31.57,,74.54,27.6
+VGB,British Virgin Islands,0.03,,,
+VIR,Virgin Islands (U.S.),0.11,,79.27,
+VNM,Vietnam,94.57,205.28,76.25,120.6
+VUT,Vanuatu,0.27,0.77,72.13,0.22
+WLD,World,7444.03,75871.74,72.04,7508.99
+WSM,Samoa,0.2,0.79,75.01,0.15
+XKX,Kosovo,1.82,6.65,71.65,
+YEM,"Yemen, Rep.",27.58,27.32,64.95,16.43
+ZAF,South Africa,56.02,295.46,62.77,82.41
+ZMB,Zambia,16.59,21.06,61.87,12.02
+ZWE,Zimbabwe,16.15,16.62,61.16,12.88

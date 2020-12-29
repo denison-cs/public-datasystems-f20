@@ -1,0 +1,41 @@
+# Denison CS-181: Assumptions about CS1 Topics
+
+  - Variables and Assignment
+  - Writing and invoking functions  
+    - Arguments and parameters
+    - Function stack
+    - Return (and difference from print)
+  - Arithmetic and Order of Evaluation  
+    - Both arithmetic and function evaluation  
+  - Style and code documentation
+  - Atomic data types; operators and semantics; converting
+    - integers
+    - floats
+    - booleans
+  - Conditionals
+  - Loops
+    - `for`, `for each` over sequences
+    - `while` indefinite loops
+  - *Using* objects and basics of Abstract Data Types
+    - attributes
+    - methods
+  - Basics of string objects
+    - operators
+    - methods (`split()`, `strip()`)
+    - immutability
+  - List objects
+    - List accumulators
+    - Operators and methods
+    - Mutability and semantics of argument/parameter passing
+  - Dictionary objects
+    - Dictionary accumulation (tallying/frequencies)
+    - Operators and methods
+    - Mutability and semantics of argument/parameter passing
+  - Two-Dimensional Data
+    - List of Lists
+    - Dictionary of Lists (for instance, graph adjacency list representation)
+    - List of Dictionaries
+  - Input from the "outside" the program/notebook
+    - Files and URLs
+    - Basic processing of *rectangular*/*tabular* data into list of lists
+      - somewhat standard csv or tab-delimited file/url

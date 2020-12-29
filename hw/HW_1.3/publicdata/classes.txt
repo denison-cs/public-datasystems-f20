@@ -1,0 +1,5 @@
+Class,        Credits,   Time,           Instructor
+CS181-01,     4,         11:30-12:20,    Bressoud
+CS234-02,     4,         9:30-10:20,     Lall
+MA125-01,     4,         8:30-9:20,      Wolff
+EC201-03,     3,         1:30-2:50,      Boyd
